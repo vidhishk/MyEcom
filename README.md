@@ -6,7 +6,7 @@ groccery product and daily essentials
 Important repositary for this project are -
 
 * [Assignment4_1](https://github.com/vidhishk/MyEcom/tree/main/MyEcom/src/com/streamliners)
-* [Assignment4_2]
+* [Assignment4_2](https://github.com/vidhishk/MyEcom/tree/Assignment-4.2.1/MyEcom/src/com/streamliners)
 * [Assignment4_3]
 
 To know further details regarding this project you can go and check out
